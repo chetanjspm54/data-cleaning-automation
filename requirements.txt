@@ -1,0 +1,13 @@
+
+---
+
+## **FILE 3: `requirements.txt`**
+
+```txt
+pandas
+numpy
+openpyxl
+xlsxwriter
+matplotlib
+seaborn
+plotly
